@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3ei041_001.yaml, hash: 'sha256:2f8293967c000eefa09b324ef316fd5f46f37f1f78b6c58b4c66149cf8f6004e'}
-  - {seq: 2, filename: KR3ei041_002.yaml, hash: 'sha256:c34d891e9b21abf9ca812f515a3b93dd14ffb5c5ba62b045998d92e704c3ad4d'}
-  - {seq: 3, filename: KR3ei041_003.yaml, hash: 'sha256:1c6a1cedf3646284553ee0d6ce019c48f22b5f1842d90f9ebfe802fb198936a7'}
+  - {seq: 1, filename: KR3ei041_001.yaml, hash: 'sha256:41f82b72f4cd94c71abf7198d13a8e63e2e40e3f115e4cf9f54f0bee92372179'}
+  - {seq: 2, filename: KR3ei041_002.yaml, hash: 'sha256:5043013c244d7818a70609ab9ae8973b0fe95e6765bfc89c066f092dbb3a82e6'}
+  - {seq: 3, filename: KR3ei041_003.yaml, hash: 'sha256:03b1233cc5af3574f83b09f9a1b95ce9c214e95a06f27d5d6eabaab72e0ddd4e'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ei041_001.markers.yaml, hash: 'sha256:57c9a96202facb57b70cc34414152287c318ebf1eeed8b392a812503f398c8e0'}
-  - {seq: 2, role: markers, filename: assets/KR3ei041_002.markers.yaml, hash: 'sha256:8c6df7b8617c1d5a4692925fdeb4e2bdd9fd8010f6ef2666245fe66ec42f9117'}
-  - {seq: 3, role: markers, filename: assets/KR3ei041_003.markers.yaml, hash: 'sha256:4b372d326424dd7de54c8c2656be7b20f3edf0d4b448e4a5b4bd4d7fb6ddcfb3'}
+  - {seq: 1, role: markers, filename: assets/KR3ei041_001.markers.yaml, hash: 'sha256:159936011efad697fa77e3100308e173e673968fd308bc53b01964e56bf63f18'}
+  - {seq: 2, role: markers, filename: assets/KR3ei041_002.markers.yaml, hash: 'sha256:41084f5476a3078b7cdafd878b4f17535519de124b65b389fda7111a40082613'}
+  - {seq: 3, role: markers, filename: assets/KR3ei041_003.markers.yaml, hash: 'sha256:eee8ca2690dfa8d6bf6f70b2a42451fead5f2252e43f0a9954b1c5aa687a8b1f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -855,7 +855,4 @@ table_of_contents:
   label: 胎產
   type: section
   level: 2
-hash: sha256:11b391143f53b5850f5ec9cadffe31ff5304ef56ba44dd1a2ff398526a92adab
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8daf02cd647a6e9525c6ea09fc2d0ca1c9a156bef63616de08dfa10b4cf44bb8
